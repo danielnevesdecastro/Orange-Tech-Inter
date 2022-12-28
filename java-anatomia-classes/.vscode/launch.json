@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "java-anatomia-classes_a0f59f72"
+        },
+        {
+            "type": "java",
             "name": "Launch TiposVariaveis",
             "request": "launch",
             "mainClass": "TiposVariaveis",
