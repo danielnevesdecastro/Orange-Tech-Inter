@@ -34,6 +34,7 @@ public class Operadores {
         System.out.println(simNao);  
         boolean maiorQue = b > a; // b mairo que a ? 
         System.out.println(maiorQue); 
+        
         //Lógicos 
         boolean condicao1, condicao2;
         condicao1 = true;
