@@ -1,3 +1,5 @@
+package Repeticao;
+
 import java.util.Scanner;
 //EX02
 public class Ex02_Nota {

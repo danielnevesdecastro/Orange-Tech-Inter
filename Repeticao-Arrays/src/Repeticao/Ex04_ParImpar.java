@@ -1,3 +1,5 @@
+package Repeticao;
+
 import java.util.Scanner;
 //Exe04
 

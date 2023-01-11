@@ -1,3 +1,5 @@
+package Repeticao;
+
 import java.util.Scanner;
 //EX01
 public class Ex01_NomeIdade {
